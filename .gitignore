@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+.local/
+.DS_Store
+.pytest_cache/
+api-key
+api-key.*
+*.pem

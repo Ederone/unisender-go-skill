@@ -1,0 +1,4 @@
+interface:
+  display_name: "UniSender Go"
+  short_description: "Transactional email, templates, and delivery events"
+  default_prompt: "Use $unisender-go to work with transactional emails, templates, and delivery events in my UniSender Go account."
